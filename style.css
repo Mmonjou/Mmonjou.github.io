@@ -212,7 +212,7 @@
 /* Bloc 5 : Footer */
 
 	.footer {
-		background: rgb(241,240,201);
+		background: rgba(0,0,0,0.07);
 		display: flex;
 		align-items: center;
 		justify-content: space-between;
